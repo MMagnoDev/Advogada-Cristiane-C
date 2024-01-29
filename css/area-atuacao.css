@@ -1,0 +1,52 @@
+.area-bg {
+  background: #ffd3da;
+  margin-top: 120px;
+  box-shadow: #8a0015
+}
+.area-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.area {
+  grid-column: 2;
+}
+
+.area img {
+  margin-bottom: 10px;
+}
+.area h3 {
+  margin-bottom: 10px;
+  color: #8e051a;
+  font-size: 34px;
+  font-weight: 600;
+}
+.area p {
+  color: #b27474;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.55;
+  margin-right: 50px;
+  margin-bottom: 60px;
+}
+
+.area-container img {
+  grid-column: 1;
+}
+
+.area-container h1 {
+  margin-top: 40px;
+  margin-left: 60px;
+  color: #8a0015;
+  font-size: 64px;
+  font-weight: 600;
+}
+
+.area-container span {
+  color: #f57285;
+}
+.area-foto{
+  grid-column: 1;
+  margin-left: 60px;
+}
