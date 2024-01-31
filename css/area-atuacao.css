@@ -1,7 +1,7 @@
 .area-bg {
   background: #ffd3da;
   margin-top: 120px;
-  box-shadow: #8a0015
+  box-shadow: inset 0px -100px 0px white;
 }
 .area-container {
   display: grid;
@@ -46,7 +46,7 @@
 .area-container span {
   color: #f57285;
 }
-.area-foto{
+.area-foto {
   grid-column: 1;
   margin-left: 60px;
 }
