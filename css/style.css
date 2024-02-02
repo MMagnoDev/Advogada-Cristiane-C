@@ -2,6 +2,8 @@
 @import url(./introducao.css);
 @import url(./area-atuacao.css);
 @import url(./iniciar-processo.css);
+@import url(./escritorio.css);
+@import url(./footer.css);
 
 body {
   margin: 0px;

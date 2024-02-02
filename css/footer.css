@@ -1,0 +1,27 @@
+.footer-bg {
+  margin-top: 120px;
+  background-color: #ffd3da;
+}
+.footer-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px 200px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.footer-container h3 {
+  font-size: 24;
+  line-height: 28px;
+  color: #360008;
+  margin-bottom: 10px;
+}
+
+.footer-container p {
+  font-size: 18px;
+  line-height: 36px;
+  color: #8a6e6e;
+}
+
+.contato-text{
+  margin-bottom: 30px;
+}

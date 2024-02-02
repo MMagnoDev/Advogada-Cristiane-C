@@ -1,0 +1,57 @@
+.escritorio-bg {
+  background-color: #ededed;
+  margin-top: 120px;
+  box-shadow: inset 0px -150px 0px white;
+}
+
+.escritorio-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.escritorio-bg h1 {
+  padding-top: 47px;
+  padding-bottom: 47px;
+  font-size: 64px;
+  line-height: 72px;
+  color: black;
+  text-align: center;
+}
+
+.escritorio-bg h1 span {
+  color: #f57285;
+}
+
+.escritorio-img {
+  max-width: 600px;
+  margin-left: 140px;
+}
+.escritorio-info {
+  max-width: 600px;
+}
+.escritorio-info h3 {
+  font-size: 34px;
+  line-height: 36px;
+  margin-bottom: 20px;
+}
+
+.escritorio-info p {
+  color: #969696;
+  font-size: 18px;
+  line-height: 28px;
+}
+.texto-1 {
+  margin-bottom: 30px;
+}
+
+.saiba-mais h3 {
+  margin-top: 20px;
+  font-size: 18px;
+  text-decoration: underline;
+  color: #585858;
+}
+
+.saiba-mais h3 span {
+color: #f57285;
+}
